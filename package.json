@@ -1,0 +1,26 @@
+{
+  "name": "@lee-gyu/wasm-grid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "",
+    "lint": "",
+    "test": "",
+    "build": ""
+  },
+  "workspaces": [
+    "packages/*"
+  ],
+  "keywords": [],
+  "author": "Lee Gyu Cheol <leegyu4dev@gmail.com>",
+  "license": "ISC",
+  "engines": {
+    "node": "^20.0.0",
+    "pnpm": "^9.0.0"
+  },
+  "devDependencies": {
+    "vite": "^5.2.12",
+    "vitest": "^1.6.0"
+  }
+}
